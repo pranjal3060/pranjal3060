@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://pranjal3060.io">
+  <a href="">
     <img src="https://media.licdn.com/dms/image/v2/D5612AQGlARrQvBcdFA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1718608022134?e=1731542400&v=beta&t=P_LJim0LaVtTYHHeq5ZtaZcHpGG8tS2eGQKLzPH-l8s" alt="MasterHead">
   </a>
 </div>

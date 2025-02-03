@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/pranjalsingh1481/">
-    <img src="https://media.licdn.com/dms/image/v2/D5612AQGlARrQvBcdFA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1718608022134?e=1731542400&v=beta&t=P_LJim0LaVtTYHHeq5ZtaZcHpGG8tS2eGQKLzPH-l8s" alt="MasterHead">
-  </a>
-</div>
+
 <h1 align="center">Namaskar</h1>
 <h3 align="center">Final-year ECE UnderGrad IIT Kharagpur</h3>
 <img align="right" alt="Coding" width="400" src="https://wallpapers.com/images/high/pink-astronaut-on-a-rocket-aq6joa03u46mmn1y.webp">

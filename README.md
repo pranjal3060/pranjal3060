@@ -1,6 +1,6 @@
 
 <h1 align="center">Namaskar</h1>
-<h3 align="center">Final-year ECE UnderGrad IIT Kharagpur</h3>
+<h3 align="center"> ECE UnderGrad IIT Kharagpur</h3>
 <img align="right" alt="Coding" width="400" src="https://wallpapers.com/images/high/pink-astronaut-on-a-rocket-aq6joa03u46mmn1y.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal3060&label=Profile%20views&color=0e75b6&style=flat" alt="pranjal3060" /> </p>
 
